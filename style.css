@@ -1,0 +1,18 @@
+
+
+body {
+
+	text-align: center;
+}
+
+img	{
+	filter: blur(3px) grayscale(1);
+	transition: 1s;
+
+}
+
+img:hover	{
+
+	filter: blur(0) grayscale(0);
+
+}
